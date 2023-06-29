@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hazal Türkmen"
-  avatar           : "profile.png"
+  avatar           : "files/profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Turkey"
   employer         :
